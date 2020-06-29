@@ -3,4 +3,5 @@
 ### Tech used:
 * React
 * Firebase
-* Redux
+
+### Refactoring current e-commerce project into React Hooks
